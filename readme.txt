@@ -1,3 +1,4 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git is interesting!
+文档说明：
+	这里是一个平时的代码存储库，当然也会有关于代码的解析。
+如果对代码有什么疑问,请联系我！
+QQ:2692528141 微信：15095762548
